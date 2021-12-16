@@ -1,9 +1,6 @@
 et voici une nouvelle ligne
 
-et encore une autre
 
-<<<<<<< HEAD
-c ok
-=======
+retouche encore
 
->>>>>>> new_branch
+ET LA JE CHANGE TPN READ ME AHAHAHAHAHAH JE SUIS MACHIAVELIQUE
